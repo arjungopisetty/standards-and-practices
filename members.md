@@ -65,6 +65,7 @@ Format:
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Andy Huynh | [andystructible](https://github.com/andystructible) | I'm interning at a RoRs shop in Southern California. I'm excited to contribute to the open source community! |
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
+| Arjun Gopisetty | [arjungopisetty](https://github.com/arjungopisetty) | I'm a computer science undergrad, and know Java and basic python. I hoping to work on large scale projects. |
 | Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
